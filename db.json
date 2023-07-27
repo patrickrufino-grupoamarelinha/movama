@@ -1,0 +1,75 @@
+{
+    "lojas": [
+        {
+            "id": 1,
+            "codigo": 15
+        },
+        {
+            "id": 2,
+            "codigo": 16
+        },
+        {
+            "id": 3,
+            "codigo": 17
+        },
+        {
+            "id": 4,
+            "codigo": 18
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "descricao": "Cerveja 350ML Lata",
+            "marca": "Amstel",
+            "complemento": "Lager",
+            "barras": 7896045504831,
+            "codigo": 1115871,
+            "qtde": 408,
+            "qt_bx": 0,
+            "estoque": 5142,
+            "data": "25/07/23",
+            "operacao": "005428000901"
+        },
+        {
+            "id": 2,
+            "descricao": "Agua de Coco 1 Lt",
+            "marca": "Kero Coco",
+            "complemento": "Tradicional",
+            "barras": 7896828000239,
+            "codigo": 417737,
+            "qtde": 30,
+            "qt_bx": 0,
+            "estoque": 146,
+            "data": "26/07/23",
+            "operacao": "005428245391"
+        },
+        {
+            "id": 3,
+            "descricao": "Agua Mineral 500 ML",
+            "marca": "Leve",
+            "complemento": "Sem Gas",
+            "barras": 789834876006,
+            "codigo": 415999,
+            "qtde": 240,
+            "qt_bx": 0,
+            "estoque": 2704,
+            "data": "26/07/23",
+            "operacao": "005428237231"
+        },
+        {
+            "id": 4,
+            "descricao": "Leite Longa Vida",
+            "marca": "Mococa",
+            "complemento": "Desnatado",
+            "barras": 78910300002378,
+            "codigo": 755834,
+            "qtde": 60,
+            "qt_bx": 0,
+            "estoque": 5142,
+            "data": "17/07/23",
+            "operacao": "0054266315321"
+        }
+
+    ]
+}
