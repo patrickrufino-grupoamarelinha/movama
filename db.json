@@ -75,14 +75,59 @@
     "pedidos": [
         {
             "id": 1,
-            "loja_emitente": 1,
-            "loja_remetente": 2,
             "pedido": [
                 {
-                    "produtos": 1,
-                    "produtos": 2,
-                    "produtos": 3,
-                    "produtos": 4
+                    "unidade_separadora": 1,
+                    "unidade_destino": 2,
+                    "produtos":[
+                        {
+                            "produto": 1
+                        },
+                        {
+                            "produto": 2
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "id": 2,
+            "pedido": [
+                {
+                    "unidade_separadora": 2,
+                    "unidade_destino": 4,
+                    "produtos":[
+                        {
+                            "produto": 4
+                        },
+                        {
+                            "produto": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "pedido": [
+                {
+                    "unidade_separadora": 4,
+                    "unidade_destino": 1,
+                    "produtos":[
+                        {
+                            "produto": 4
+                        },
+                        {
+                            "produto": 3
+                        },
+                        {
+                            "produto": 1
+                        },
+                        {
+                            "produto": 2
+                        }
+                    ]
                 }
             ]
         }
