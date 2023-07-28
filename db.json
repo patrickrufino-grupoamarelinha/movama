@@ -75,6 +75,7 @@
             "unidade_destino": 2,
             "operacao": "0054266315321",
             "data": "26/07/23",
+            "status": 0,
             "produtos": [
                 {
                     "id_produto": 1,
