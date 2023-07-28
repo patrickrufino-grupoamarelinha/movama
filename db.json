@@ -74,28 +74,31 @@
             "unidade_origem": 1,
             "unidade_destino": 2,
             "operacao": "0054266315321",
-            "data": "26/07/23",
-            "status": 0,
+            "data": "26/07/23",            
             "produtos": [
                 {
                     "id_produto": 1,
                     "qtde": 408,
-                    "qt_bx": 0
+                    "qt_bx": 0,
+                    "status": 0
                 },
                 {
                     "id_produto": 2,
                     "qtde": 30,
-                    "qt_bx": 0
+                    "qt_bx": 0,
+                    "status": 0
                 },
                 {
                     "id_produto": 3,
                     "qtde": 240,
-                    "qt_bx": 0
+                    "qt_bx": 0,
+                    "status": 0
                 },
                 {
                     "id_produto": 4,
                     "qtde": 60,
-                    "qt_bx": 0
+                    "qt_bx": 0,
+                    "status": 0
                 }
             ]
         } 
